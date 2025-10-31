@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is Bitcoin's maximum supply?",
+    "answers": ["21 million", "100 million", "Unlimited"],
+    "correct": 0
+  },
+  {
+    "question": "What is Ethereum primarily used for?",
+    "answers": ["Smart contracts", "Video streaming", "Cloud storage"],
+    "correct": 0
+  },
+  {
+    "question": "What does 'DeFi' stand for?",
+    "answers": ["Decentralized Finance", "Digital Funds", "Deflationary Index"],
+    "correct": 0
+  },
+  {
+    "question": "What is the smallest unit of Bitcoin called?",
+    "answers": ["Satoshi", "Wei", "Nakamoto"],
+    "correct": 0
+  },
+  {
+    "question": "Which consensus mechanism does Bitcoin use?",
+    "answers": ["Proof of Work", "Proof of Stake", "Proof of Authority"],
+    "correct": 0
+  }
+]
